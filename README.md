@@ -17,6 +17,7 @@ Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Random Forest, KMeans, PCA, R
 Dataset Description:
 - Entries: ~150–200 food items
 - Type: Tabular data
+
 This dataset provides clean, structured, and easy-to-use nutritional information for more than 200 commonly consumed foods, including fruits, vegetables, grains, dairy, beverages, snacks, and cooked dishes.
 
 The data has been sourced from the USDA FoodData Central API, which is one of the most trusted open food-nutrition sources globally.
